@@ -1,24 +1,26 @@
 `41977B`
-# B(ro)botics
-**B(ro)botics** is the robotics club of Birchmount Park C.I., in Scarborough, ON. The name of our team is **Alpex (41977B)**.
+# Birchmount Robotics Club
+Birchmount Robotics Club, also known as B(ro)botics, is the robotics club of Birchmount Park C.I., in Scarborough, ON. Our team identifier in VRC is `41977B`.
 
 ## What do we do?
-We design and build [VEX V5](https://www.vexrobotics.com/v5) robots to compete in the [Vex Robotics Competition (VRC)](https://www.vexrobotics.com/competition). Our team is comprised of people of different grade levels who all share a passion for robotics. Some are into programming, while others are into building.
+We design and build [VEX V5](https://www.vexrobotics.com/v5) robots to compete in the [Vex Robotics Competition (VRC)](https://www.vexrobotics.com/competition). Our team is a diverse group of talented people who all share a passion for robotics. Some are into programming, while others are into building. This is where we do the former.
 
 ## People:
 * Mr. Wang - Organizer
-
-* Aseer - Programmer, Additional Work
+* Wesley - Programmer
+* Aseer - Programmer, Additional work
+* Rohan - Programmer
 * Colin - Builder, Designer, Driver
 * Parthib - Builder
-* Rohan - Programmer
 * Turhan - Builder, Designer
 * Tyler - Builder, Designer
 * Wadid - Driver
-* Wesley - Programmer
 
 ## What's here?
 Various programming projects, documentation, and programming notes.
 
-## Contact us
-Email: ![Don't scrape this please](https://github.com/BPCI-Robotics/.github/assets/61358187/4a6180bd-f859-4992-a879-c0d5a26bb65e)
+## More information
+* [Our website](https://BPCI-Robotics.github.io/)
+* Email: ![Email address](https://github.com/BPCI-Robotics/.github/assets/61358187/4a6180bd-f859-4992-a879-c0d5a26bb65e).
+* [School website](https://schoolweb.tdsb.on.ca/birchmountpark/).
+* [School board website](https://www.tdsb.on.ca/).
