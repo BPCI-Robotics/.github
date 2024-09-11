@@ -21,6 +21,6 @@ Various programming projects, documentation, and programming notes.
 
 ## More information
 * [Our website](https://BPCI-Robotics.github.io/)
-* Email: ![Email address](https://github.com/BPCI-Robotics/.github/assets/61358187/4a6180bd-f859-4992-a879-c0d5a26bb65e).
-* [School website](https://schoolweb.tdsb.on.ca/birchmountpark/).
-* [School board website](https://www.tdsb.on.ca/).
+* Email: ![Email address](https://github.com/BPCI-Robotics/.github/assets/61358187/4a6180bd-f859-4992-a879-c0d5a26bb65e)
+* [School website](https://schoolweb.tdsb.on.ca/birchmountpark/)
+* [School board website](https://www.tdsb.on.ca/)
