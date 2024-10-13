@@ -15,12 +15,15 @@ We design and build [VEX V5](https://www.vexrobotics.com/v5) robots to compete i
 * Turhan - Builder, Designer
 * Tyler - Builder, Designer
 * Wadid - Driver
+* Tirtho - Builder
+* Michael - Builder
 
 ## What's here?
 Various programming projects, documentation, and programming notes.
 
 ## More information
 * [Our website](https://BPCI-Robotics.github.io/)
-* Email: ![Email address](https://github.com/BPCI-Robotics/.github/assets/61358187/4a6180bd-f859-4992-a879-c0d5a26bb65e)
+* Email: ![Email address](https://github.com/user-attachments/assets/b1bb327b-6e7b-4c4e-8d02-4d6102e78e92)
+
 * [School website](https://schoolweb.tdsb.on.ca/birchmountpark/)
 * [School board website](https://www.tdsb.on.ca/)
