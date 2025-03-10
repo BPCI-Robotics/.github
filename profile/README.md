@@ -1,6 +1,5 @@
-`41977B`
 # Birchmount Robotics Club
-Birchmount Robotics Club, also known as B(ro)botics, is the robotics club of Birchmount Park C.I., in Scarborough, ON. Our team identifier in VRC is `41977B`.
+Birchmount Robotics Club, also known as B(ro)botics, is the robotics club of Birchmount Park C.I., in Scarborough, ON. Our team identifier in V5RC is `41977B`.
 
 ## What do we do?
 We design and build [VEX V5](https://www.vexrobotics.com/v5) robots to compete in the [Vex Robotics Competition (VRC)](https://www.vexrobotics.com/competition). Our team is a diverse group of talented people who all share a passion for robotics. Some are into programming, while others are into building. This is where we do the former.
@@ -24,7 +23,7 @@ Between Over Under (2023-24) and High Stakes (2024-2025), our team improved a lo
 ## What's here?
 Here our code for the robots and engineering notebooks are posted publicly. Other miscellaneous projects are posted here as well.
 
-## More information
-* Email: ![Email address](https://github.com/user-attachments/assets/b1bb327b-6e7b-4c4e-8d02-4d6102e78e92)
-
+## Socials
+* Email: birchmountrobotics@gmail.com
+* [Instagram](https://www.instagram.com/bpci.robotics/)
 * [School website](https://schoolweb.tdsb.on.ca/birchmountpark/)
